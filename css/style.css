@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5dd;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+
+#square-1 {
+    background-color: rgb(0, 0, 0);
+}
+
+#square-2 {
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+#square-3 {
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+#square-4 {
+    background-color: rgba(0, 0, 0, 0.24);
+}
